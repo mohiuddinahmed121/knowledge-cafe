@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/m02k07n/flat-lay-desktop-with-agenda-succulent-plant.jpg",
+        "title": "The Chronicles of Dawn",
+        "author": "Emily Rivers",
+        "author_img": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
+        "posted_date": "2024-08-10",
+        "reading_time": 7,
+        "hashtags": [
+            "#Fantasy",
+            "#Adventure",
+            "#Epic"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/zr3qy5f/top-view-desk-concept-with-coffee.jpg",
+        "title": "Whispers in the Wind",
+        "author": "Marcus Steele",
+        "author_img": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e",
+        "posted_date": "2024-08-12",
+        "reading_time": 5,
+        "hashtags": [
+            "#Romance",
+            "#Mystery",
+            "#LoveStory"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/qB7HMLd/top-view-keyboard-plant-arrangement.jpg",
+        "title": "The Last Horizon",
+        "author": "Sophia Blake",
+        "author_img": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91",
+        "posted_date": "2024-08-14",
+        "reading_time": 8,
+        "hashtags": [
+            "#SciFi",
+            "#Space",
+            "#Thriller"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "title": "Echoes of the Past",
+        "author": "Liam Carter",
+        "author_img": "https://images.unsplash.com/photo-1607746882042-944635dfe10e",
+        "posted_date": "2024-08-13",
+        "reading_time": 6,
+        "hashtags": [
+            "#Historical",
+            "#Drama",
+            "#War"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+        "title": "Shadows of the Forgotten",
+        "author": "Ava Kingsley",
+        "author_img": "https://images.unsplash.com/photo-1502685104226-ee32379fefbe",
+        "posted_date": "2024-08-15",
+        "reading_time": 10,
+        "hashtags": [
+            "#Horror",
+            "#Suspense",
+            "#Gothic"
+        ]
+    }
+]
